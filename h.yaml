@@ -1,8 +1,8 @@
 swagger: '2.0'
 info:
   version: 1.0.0
-  title: -
-  description: <style>
+  title: INJECTED
+  description: '<style>
         body {
             font-family: Arial, sans-serif;
             background-color: #333;
@@ -50,7 +50,7 @@ info:
     </style>
     <div id="greeting">
         Hacked by Dark & Karlos
-    </div>
+    </div>'
 
 paths:
   /:
